@@ -1,0 +1,94 @@
+{
+    "dog": [
+        {
+            "Name": "Buffalo Wilderness Chicken", 
+            "Summary": "Blue Buffalo ® Wilderness ™ Chicken contains 40% min protein, 18% min fat and has a calorie density of 3832kcal/kg.",
+            "Protein": 108,
+            "Fat": 50,
+            "Carbohydrate": 57,
+            "Img": "/dog/blue_buffalo_chicken.jpg"
+        },
+        {
+            "Name": "Buffalo Wilderness Salmon", 
+            "Summary": "Blue Buffalo ® Wilderness ™ Salmon contains 40% min protein, 18% min fat and has a calorie density of 3850kcal/kg.",
+            "Protein": 108,
+            "Fat": 49,
+            "Carbohydrate": 58,
+            "Img": "/dog/blue_buffalo_salmon.jpg"
+        },
+        {
+            "Name": "Buffalo Wilderness Duck", 
+            "Summary": "Blue Buffalo ® Wilderness ™ Duck contains 40% min protein, 18% min fat and has a calorie density of 3835kcal/kg.",
+            "Protein": 108,
+            "Fat": 50,
+            "Carbohydrate": 57,
+            "Img": "/dog/blue_buffalo_duck.jpg"
+        }
+    ],
+    "cat": [
+        {
+            "Name": "Buffalo Wilderness Chicken", 
+            "Summary": "Blue Buffalo ® Wilderness ™ Chicken contains 40% min protein, 18% min fat and has a calorie density of 3832kcal/kg.",
+            "Protein": 108,
+            "Fat": 50,
+            "Carbohydrate": 57,
+            "Img": "/cat/blue_buffalo_cat_chicken.jpg"
+        },
+        {
+            "Name": "Buffalo Wilderness Salmon", 
+            "Summary": "Blue Buffalo ® Wilderness ™ Salmon contains 40% min protein, 18% min fat and has a calorie density of 3850kcal/kg.",
+            "Protein": 108,
+            "Fat": 49,
+            "Carbohydrate": 58,
+            "Img": "/cat/blue_buffalo_cat_salmon.jpg"
+        },
+        {
+            "Name": "Buffalo Wilderness Duck", 
+            "Summary": "Blue Buffalo ® Wilderness ™ Duck contains 40% min protein, 18% min fat and has a calorie density of 3835kcal/kg.",
+            "Protein": 108,
+            "Fat": 50,
+            "Carbohydrate": 57,
+            "Img": "/cat/blue_buffalo_cat_duck.jpg"
+        }
+    ],
+    "dog_nom": [
+        {
+            "Name": "Beef Mash", 
+            "Protein": 93,
+            "Fat": 48,
+            "Carbohydrate": 75,
+            "Img": "/nom/bowl_beef_square.png"
+        },
+        {
+            "Name": "Chicken Cuisine", 
+            "Protein": 80,
+            "Fat": 56,
+            "Carbohydrate": 71,
+            "Img": "/nom/bowl_chicken_square.png"
+        },
+        {
+            "Name": "Turkey Fare", 
+            "Protein": 85,
+            "Fat": 47,
+            "Carbohydrate": 103,
+            "Img": "/nom/bowl_turkey_square.png"
+        },
+        {
+            "Name": "Pork Potluck", 
+            "Protein": 76,
+            "Fat": 48,
+            "Carbohydrate": 93,
+            "Img": "/nom/bowl_pork_square.png"
+        }
+    ],
+    "cat_nom": [
+        {
+            "Name": "Chicken Cuisine", 
+            "Protein": 163,
+            "Fat": 42,
+            "Carbohydrate": 21,
+            "Img": "/nom/bowl_cat_chicken_square.png"
+        }
+    ]
+
+ }
