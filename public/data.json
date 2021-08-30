@@ -3,23 +3,23 @@
         {
             "Name": "Buffalo Wilderness Chicken", 
             "Summary": "Blue Buffalo ® Wilderness ™ Chicken contains 40% min protein, 18% min fat and has a calorie density of 3832kcal/kg.",
-            "Protein": 108,
-            "Fat": 50,
-            "Carbohydrate": 57
+            "Protein": 99,
+            "Fat": 44,
+            "Carbohydrate": 79
         },
         {
             "Name": "Buffalo Wilderness Salmon", 
             "Summary": "Blue Buffalo ® Wilderness ™ Salmon contains 40% min protein, 18% min fat and has a calorie density of 3850kcal/kg.",
-            "Protein": 108,
-            "Fat": 49,
-            "Carbohydrate": 58
+            "Protein": 99,
+            "Fat": 45,
+            "Carbohydrate": 79
         },
         {
             "Name": "Buffalo Wilderness Duck", 
             "Summary": "Blue Buffalo ® Wilderness ™ Duck contains 40% min protein, 18% min fat and has a calorie density of 3835kcal/kg.",
-            "Protein": 108,
-            "Fat": 50,
-            "Carbohydrate": 57
+            "Protein": 99,
+            "Fat": 44,
+            "Carbohydrate": 79
         }
     ],
     "cat": [
