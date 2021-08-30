@@ -131,7 +131,7 @@ function App() {
                             <div>
                               <img src="nom_nom_straight.svg" className="logo"/>
                               <div className="brand">
-                                <h3 className="color-biscuit druk">Turkey Fare</h3>
+//                                 <h3 className="color-biscuit druk">Turkey Fare</h3>
                               </div>    
                             </div>
                           : ''}
